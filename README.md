@@ -1,3 +1,4 @@
-# dom-array-methods
+# DOM Array Methods
 
-https://romain-codes.github.io/dom-array-methods/
+This is a project from the course « 20 Web Projects With Vanilla JavaScript » by Brad Traversy <br/>
+Direct Link : https://romain-codes.github.io/dom-array-methods/
